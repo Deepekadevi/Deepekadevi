@@ -3,8 +3,7 @@
 - 🌱 I’m currently looking for job opportunity ...
 - 💞️ I completed software testing coruse From reputed technologys
 - 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-
 
 <!---
 Deepekadevi/Deepekadevi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
